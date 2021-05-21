@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/imgScreen">
+        <file>imgScreen/anime_girl_PNG96.png</file>
+        <file>imgScreen/logoza.ru.png</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>res/116236.png</file>
+        <file>res/tenor.gif</file>
+        <file>res/tenor (2).gif</file>
+        <file>res/Без имени-1.png</file>
+        <file>res/race-car-74.gif</file>
+    </qresource>
+</RCC>
